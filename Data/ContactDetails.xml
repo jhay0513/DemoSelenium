@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testsuite>
+	<Row>
+		<FirstName>Jason Joseph</FirstName>
+		<LastName>Eligio</LastName>
+		<DateOfBirth>1991-05-13</DateOfBirth>
+		<Email>jhay0513@gmail.com</Email>
+		<Phone>09163003091</Phone>
+		<StreetAddress1>Emerald St New Hope Subd</StreetAddress1>
+		<StreetAddress2>Bulihan</StreetAddress2>
+		<City>Malolos</City>
+		<StateOrProvince>Bulacan</StateOrProvince>
+		<PostalCode>3000</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Crisa</FirstName>
+		<LastName>De Juan</LastName>
+		<DateOfBirth>1993-10-08</DateOfBirth>
+		<Email>crisadejuan@gmail.com</Email>
+		<Phone>09166675789</Phone>
+		<StreetAddress1>Blk 18 Lot 6 Petunia St</StreetAddress1>
+		<StreetAddress2>Lancaster New City</StreetAddress2>
+		<City>Gen Trias</City>
+		<StateOrProvince>Cavite</StateOrProvince>
+		<PostalCode>4107</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Alvin</FirstName>
+		<LastName>Guevarra</LastName>
+		<DateOfBirth>1992-02-09</DateOfBirth>
+		<Email>alvsguevs@gmail.com</Email>
+		<Phone>09663853712</Phone>
+		<StreetAddress1>1234 Camella St</StreetAddress1>
+		<StreetAddress2>San Antonio Valley 17</StreetAddress2>
+		<City>Las Pinas</City>
+		<StateOrProvince>NCR</StateOrProvince>
+		<PostalCode>1000</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Benjie</FirstName>
+		<LastName>Manalo</LastName>
+		<DateOfBirth>1994-01-02</DateOfBirth>
+		<Email>benjiemanalo@gmail.com</Email>
+		<Phone>09198009091</Phone>
+		<StreetAddress1>3rd Floor Insular Life Bldg</StreetAddress1>
+		<StreetAddress2>Paseo De Roxas</StreetAddress2>
+		<City>Makati</City>
+		<StateOrProvince>NCR</StateOrProvince>
+		<PostalCode>2000</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Catherine</FirstName>
+		<LastName>Janelle</LastName>
+		<DateOfBirth>1995-05-06</DateOfBirth>
+		<Email>cjelig@gmail.com</Email>
+		<Phone>09887654121</Phone>
+		<StreetAddress1>Blk 6 Lot 8 Sapphire St</StreetAddress1>
+		<StreetAddress2>Stella Maris</StreetAddress2>
+		<City>Malolos</City>
+		<StateOrProvince>Bulacan</StateOrProvince>
+		<PostalCode>3001</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Darryl</FirstName>
+		<LastName>Diaz</LastName>
+		<DateOfBirth>1996-07-08</DateOfBirth>
+		<Email>thereal0708@gmail.com</Email>
+		<Phone>09134575123</Phone>
+		<StreetAddress1>2180 G G Cruz St</StreetAddress1>
+		<StreetAddress2>Baclaran</StreetAddress2>
+		<City>Paranaque</City>
+		<StateOrProvince>NCR</StateOrProvince>
+		<PostalCode>4000</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Emma</FirstName>
+		<LastName>Bolgrihn</LastName>
+		<DateOfBirth>1990-09-10</DateOfBirth>
+		<Email>emma.bolgrihn@gmail.com</Email>
+		<Phone>09122225123</Phone>
+		<StreetAddress1>234 Rosal St</StreetAddress1>
+		<StreetAddress2>Talon Kuatro</StreetAddress2>
+		<City>Las Pinas</City>
+		<StateOrProvince>NCR</StateOrProvince>
+		<PostalCode>9182</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Fernando</FirstName>
+		<LastName>Jesus</LastName>
+		<DateOfBirth>1989-11-12</DateOfBirth>
+		<Email>fpj1112@gmail.com</Email>
+		<Phone>09166878723</Phone>
+		<StreetAddress1>878 Espana St</StreetAddress1>
+		<StreetAddress2>Sampaloc</StreetAddress2>
+		<City>Manila</City>
+		<StateOrProvince>NCR</StateOrProvince>
+		<PostalCode>4321</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Guzmin</FirstName>
+		<LastName>Carrow</LastName>
+		<DateOfBirth>1988-12-11</DateOfBirth>
+		<Email>frankiecarrow@gmail.com</Email>
+		<Phone>09166663456</Phone>
+		<StreetAddress1>13th floor One San Miguel Tower</StreetAddress1>
+		<StreetAddress2>San Miguel Avenue, Ortigas</StreetAddress2>
+		<City>Pasig City</City>
+		<StateOrProvince>NCR</StateOrProvince>
+		<PostalCode>7654</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+	<Row>
+		<FirstName>Huerto</FirstName>
+		<LastName>Sarzaba</LastName>
+		<DateOfBirth>1987-10-09</DateOfBirth>
+		<Email>huertosarzaba@gmail.com</Email>
+		<Phone>09193853732</Phone>
+		<StreetAddress1>123 Kabilang-Ibayo St</StreetAddress1>
+		<StreetAddress2>Pala-Pala</StreetAddress2>
+		<City>San Jose</City>
+		<StateOrProvince>Pampanga</StateOrProvince>
+		<PostalCode>9876</PostalCode>
+		<Country>Philippines</Country>
+	</Row>
+</testsuite>
